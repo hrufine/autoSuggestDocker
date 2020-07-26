@@ -1,4 +1,4 @@
-Autosuggestion on key in - You can get names on indian states which are matching to search entry.
+Autosuggestion on key in - You can get names of indian states which are matching to search entry.
 
 Steps to run this project using docker
 
