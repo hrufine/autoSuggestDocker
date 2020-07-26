@@ -1,5 +1,9 @@
 Autosuggestion on key in - You can get names of indian states which are matching to search entry.
 
+Front end - Angular 10
+Back end - Node JS / Express JS / Typescript
+DB - Atlas Mongo DB
+
 Steps to run this project using docker
 
 1) Clone the repository to your local machine
